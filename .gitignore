@@ -1,0 +1,14 @@
+# General
+.DS_Store
+Thumbs.db
+.gemini/
+.agent/
+brain/
+*.log
+
+# Windows
+Desktop.ini
+
+# XAMPP/PHP temps
+php_errors.log
+temp/
